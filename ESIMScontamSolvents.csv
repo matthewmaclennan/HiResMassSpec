@@ -1,0 +1,39 @@
+Solvents,Abbreviation,Formula,M.W.,M.W. deuterated
+Acetic acid,-,C2H4O2,60.0,64.0
+Acetone,-,C3H6O,58.0,64.0
+Acetonitrile,ACN,C2H3N,41.0,44.0
+Benzene,-,C6H6,78.0,84.0
+Butanone (2-),-,C4H8O,72.1,80.1
+Carbondisulfide,-,CS2,75.9,75.9
+Chloroform,-,CHCl3,117.9,118.9
+Dibutylphthalate (Phthalic acid dibutyl ester),-,C16H22O4,278.2,-
+Dichloromethane,DCM,CH2Cl2,83.9,86.0
+Diethylenglycoldimethylether (Diglyme),-,C6H14O3,134.1,148.2
+Diethylether,-,C4H10O,74.1,84.1
+Diisopropylether,-,C6H14O,102.1,116.2
+"Dimethoxyethane (1,2 -) = Glykoldimethylether",DME,C4H10O2,90.1,100.1
+Dimethylformamide,DMF,C3H7NO,73.1,80.1
+Dimethylsulfoxide,DMSO,C2H6OS,78.0,84.1
+"Dioxan (1,4-)",-,C4H8O2,88.1,96.1
+Ethanol,EtOH,C2H6O,46.0,52.1
+Ethylacetate (Acetic acid ethyl ester),EtAc,C4H8O2,88.1,96.1
+Formic acid,-,CH2O2,46.0,48.0
+Glycerol,-,C3H8O3 ,92.0,-
+Hexamethyl-phosphoric acid triamide,HMPA,C6H18N3OP,179.1,197.2
+Hexane,-,C6H14,86.1,100.2
+Isopropanol (2-propanol),-,C3H8O,60.1,68.1
+"Jonol (2,6-Di-(tert-butyl)-4-methylphenol)   stab.",-,C15H24O,220.2,-
+Methanol,MeOH,CH4O,32.0,36.0
+Propanol,-,C3H8O,60.1,68.1
+Pyridine,-,C5H5N,79.0,84.1
+Sulfur,-,S8,255.8,255.8
+Tetrachlorocarbon,-,CCl4,151.9,151.9
+Tetrachloroethylene,-,C2Cl4,163.9,163.9
+Tetrahydrofuran,THF,C4H8O,72.1,80.1
+Tetramethylsilane,TMS,C4H12Si,88.1,-
+Toluene,-,C7H8,92.1,100.1
+Trichloroethylene,-,C2HCl3,129.9,130.9
+Trifluoroacetic acid,TFA,C2F3O2H,114.0,115.0
+Triethylamine,TEA,C6H15N,101.1,-
+Tripropylamine,TPA,C9H21N,143.2,-
+Xylene,-,C8H10 ,106.1,116.1
