@@ -1,0 +1,24 @@
+Type of ions:,Explanation
+f+,fragment ion
+[f+H]+,"protonated fragment ion, e.g. in-source fragmentation of peptide ions"
+[M+H]+,protonated molecular ion (pseudomolecular ion)
+[M+Na]+,sodiated molecular ion
+[M+K]+,potassiated molecular ion
+"[M2+H]+, [M3+H]+ etc...","protonated dimeric, trimeric, etc... molecular ion"
+[AnBm+H]+,protonated moleuclar ion consisting of n A and m B subunits
+,
+,
+,
+,
+Abbreviations,Explanation
+4-HCCA,"?-cyano-4-hydroxycinnamic acid, common matrix substance for MALDI MS analysis"
+"2,5-DHB","2,5-Dihydroxy benzoic acid, common matrix substance for MALDI MS analysis"
+"MeCN, ACN","acetonitrile, solvent"
+MeOH,"methanol, solvent"
+MeNO2,"nitromethane, solvent"
+HABA,"2-(4-hydroxyphenyl-azo)-benzoic acid, matrix substance for MALDI MS analysis"
+SA,"sinapic or sinapinic acid, common matrix substance for MALDI MS analysis"
+PEG,"Polyethylene glycol, Repeat unit: -[O-CH2-CH2-]-; 44 Da"
+PPG,"Polypropylene glycol, Repeat unit: -[O-C(CH3)H-CH2-]-; 58 Da"
+XaaCcamXaa,"carbamidomethylated cysteine residue (+ICH2CONH2 - HI), +57Da"
+XaaMoxXaa,"singly oxidized methionine residue (+O, 16 Da)"
