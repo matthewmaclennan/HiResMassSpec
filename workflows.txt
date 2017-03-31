@@ -1,0 +1,28 @@
+importSpectrum()
+  1. Use this workflow to import mass spectra in mzML or mzXML formats
+
+Assign chemical formulae to selected m/z within ppm mass accuracy
+  1. Generate bank of chemical formulae
+  2. generate vector of m/z values obtained from spectrum
+  3. Match cheical formula from bank to m/z value from spectrum to with ppm mass accuracy
+  
+Apply a priori connectivity knowledge to chemical formulae to access another layer
+  1. Assign possible formulae to m/z value based on an atomic bank
+  2. Create bank of predefined molecular units, based on a priori definitions. Examples include glycan monosaccharides or amino acids.
+  N.B.: The bank of molecular units is meant to be matched to the same m/z data as the atomic bank.
+  3. transform formula into matrix
+  4. factor molecular units into formulae
+  5. plot mass defect
+
+Match m/z to (formula +/- fragment)
+  1. 
+
+Find unknown fragments or additions between two MS spectra
+  1. Systematically subtract spectra
+  2. Keep list of differences
+  3. Solve differences for formulae
+  
+Find differences within spectra - diff.list() method
+  1. 
+  
+FInd differences within spectra - 
