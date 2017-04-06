@@ -1,3 +1,4 @@
+
 blindSpotStarter<-function(elementSymbols,periodic=TRUE,round){
 #create the expand.grid matrix based on atoms in the periodic table
 #need to write this code!
@@ -26,7 +27,7 @@ units<-elementChoose(periodic=TRUE,elementSymbols,round)
 eqs<-expand.grid(lapply(apply(units,1,list),function(x) unlist(x)))
 
 #eqs<-as.matrix(expand.grid(c(0,12),c(0,1),c(0,16),c(0,32)))
-colnames(eqs)<-elementSymbols
+colnames(eqs)[-1]<-elementSymbols
 eqs<-apply(eqs,1,function(x) x[grep("[1-9]{1,3}",x)])
 eqs<-lapply(eqs,function(x) if(length(x)>1){x})
 eqs<-eqs[!sapply(eqs,is.null)]
