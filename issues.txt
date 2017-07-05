@@ -3,3 +3,7 @@ the derivative formulae are calculated based on exact matches for overlap. It wo
 
 1. Approximate overlap, as in overlap to within a ppm error. I suspect the result of this would be much more reasonable sets of 
 derivative formulae, meaning much smaller denominators.
+
+2. Generate formulae from a formulaic n-rule
+
+3. Generate SMILES from formulaic n-rule and scaffold. Can Marvinsketch already do this with restricted isomer enumerations?
