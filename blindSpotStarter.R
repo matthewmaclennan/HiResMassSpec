@@ -8,10 +8,10 @@ elementChoose<-function(periodic=TRUE,elementSymbols,round){
 if(periodic){
 units<-c(0,0)
 for(i in 1:length(elementSymbols)){
-	units<-rbind(units,c(0,as.numeric(nuclides[nuclides[,"Symbol"]==elementSymbols[i],3])))
+	units<-rbind(units,c(0,as.numeric(nuclides[nuclides[,"Symbol"]==elementSymbols[i],"Mass"])))
 #	nuclides[,"Symbol"]=="H(1)"|
 #	nuclides[,"Symbol"]=="O(16)"|
-#	nuclides[,"Symbol"]=="S(32)",3]))
+#	nuclides[,"Symbol"]=="S(32)","Mass"]))
 
 	}
 	units
