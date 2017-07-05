@@ -4,6 +4,7 @@ blindSpotStarter<-function(elementSymbols,periodic=TRUE,round){
 #need to write this code!
 #factor in the full masses and resolutions
 #choose("C","H","O","S") and find masses
+require(FRACTION)
 elementChoose<-function(periodic=TRUE,elementSymbols,round){
 if(periodic){
 units<-c(0,0)
