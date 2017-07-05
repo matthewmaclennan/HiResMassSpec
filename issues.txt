@@ -1,0 +1,5 @@
+Next step involves making the blindSpotStarter function allow for approximate overlap. Currently, the atom masses are rounded and 
+the derivative formulae are calculated based on exact matches for overlap. It would be beneficial to include:
+
+1. Approximate overlap, as in overlap to within a ppm error. I suspect the result of this would be much more reasonable sets of 
+derivative formulae, meaning much smaller denominators.
