@@ -4,6 +4,10 @@ the derivative formulae are calculated based on exact matches for overlap. It wo
 1. Approximate overlap, as in overlap to within a ppm error. I suspect the result of this would be much more reasonable sets of 
 derivative formulae, meaning much smaller denominators.
 
-2. Generate formulae from a formulaic n-rule
+1a. Use derivative formulae to create a set of chemical formulae within a mass range useful for mass spectral analysis and plotting.
+1b. Include the charge (m/z) component. This is from the perspective of mass spectrometry. 
+1c. How do m/z with |z|>1 affect the overlap spaces in molecule sets and derivative formulae?
 
-3. Generate SMILES from formulaic n-rule and scaffold. Can Marvinsketch already do this with restricted isomer enumerations?
+2. Generate formulae from a formulaic n-rule (e.g. CnH2n-ZOm) and a mass range cutoff.*
+
+3. Generate SMILES from formulaic n-rule and scaffold. Can Marvinsketch already do this with restricted isomer enumerations?*
