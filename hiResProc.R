@@ -120,6 +120,11 @@ points(2/C[O==2],N[O==2]/C[O==2],cex=0.9,col="green",pch=7)
 points(4/C[O==4],N[O==4]/C[O==4],cex=0.9,col="red",pch=7)
 points(6/C[O==6],N[O==6]/C[O==6],cex=0.9,col="blue",pch=7)
 points(8/C[O==8],N[O==8]/C[O==8],cex=0.9,col="purple",pch=7)
+#
+points(2/C[O==2],S[O==2]/C[O==2],cex=0.9,col="green",pch=7)
+points(4/C[O==4],S[O==4]/C[O==4],cex=0.9,col="red",pch=7)
+points(6/C[O==6],S[O==6]/C[O==6],cex=0.9,col="blue",pch=7)
+points(8/C[O==8],S[O==8]/C[O==8],cex=0.9,col="purple",pch=7)		       
 
 ####################################
 #eoc
