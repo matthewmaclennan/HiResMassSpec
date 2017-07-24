@@ -48,9 +48,9 @@ formulamatch2<-function(mgt0,nagenS0N0n1,thresh,Charge){
 #match formulae to within threshold ppm
 #case here uses S=0, N=0, O<=8, C5-35
 if(Charge==1){
-s14.20<-matchppm2(nagenS0N0n1,mgt0[,1],thresh,Charge)}
+s14.20<-matchppm2(nagenS0N0n1,mgt0,thresh,Charge)}
 if(Charge==2){
-s14.20<-matchppm_2(nagenS0N0n1,mgt0[,1],thresh,Charge)}
+s14.20<-matchppm_2(nagenS0N0n1,mgt0,thresh,Charge)}
 #list all matched formulae
 #s14.20[unlist(lapply(s14.20,function(x) length(x)>0))]
 #make into matrix
